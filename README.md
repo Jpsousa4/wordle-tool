@@ -9,7 +9,7 @@ Wordle Tool uses the CSW-19 dictionary filtered to 5 letter words and remove wor
 
 **Combination of letters:** ```"-c a.... .b... ..d.."``` will remove words that don't have a,b, or d in them or if it has them in those locations. (these letters appear yellow in wordle). These arguments are positional and can be combined. IE: ```a.... .b... ..d..``` will yield the same results as ```abd..```
 
-**Word structure** "-w ..abc" will remove words that don't have a, b, or c in those exact positions. These are your green letters!
+**Word structure** ```"-w ..abc"``` will remove words that don't have a, b, or c in those exact positions. These are your green letters!
 
 **—cheat** lets you switch between CSW-19 and wordles solution dictionaries. Worlde's solution set is about 2000 words, where the CSW-19 (the dictionary wordle uses to check if your input word is actually a word) is 12000 words.
 
