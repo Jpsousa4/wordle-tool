@@ -22,6 +22,11 @@ Wordle Tool uses the CSW-19 dictionary filtered to 5 letter words and remove wor
 and then combined combines the two.
 
 ### Examples
+```
+ python3 wordletool.py -n tareup -w s....
+Got 156 words. Here's the top 3:
+[('silos', 752), ('soils', 778), ('soily', 781)]
+```
 
 ``` 
 python3 wordletool.py -n taes -w .ro.. -c ..r.. ...n.
