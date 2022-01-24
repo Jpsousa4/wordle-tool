@@ -1,4 +1,4 @@
-# wordle-tool
+# wordle tool
 A python shell tool to help solve wordle-like puzzles
 
 it takes the solution set and the CSW-19 dictionary of 5 letter words and removes them from either set based on user inputs
