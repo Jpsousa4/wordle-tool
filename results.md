@@ -7,7 +7,6 @@ Wordle 219 3/6
 🟧🟧🟧🟧🟧  
 
 ```
-### Monday, January 24
 ~ python3 wordletool.py
 Got 12972 words. Here's the top 3:
 [('rales', 36870), ('lares', 37169), ('tares', 37331)]
