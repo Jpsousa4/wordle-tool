@@ -1,5 +1,12 @@
+-------------------------------
+#### Monday, January 24, 2022
+Wordle 219 3/6
 
+⬛️⬛️⬛️⬛️⬛️  
+🟦🟦⬛️🟧⬛️  
+🟧🟧🟧🟧🟧  
 
+```
 ### Monday, January 24
 ~ python3 wordletool.py
 Got 12972 words. Here's the top 3:
@@ -12,10 +19,7 @@ Got 858 words. Here's the top 3:
 ~ python3 wordletool.py -n tares -w ...l. -c no...
 Got 1 words. Here's the top 3:
 [('knoll', 10)]
+```
 
-Wordle 219 3/6
 
-⬛️⬛️⬛️⬛️⬛️
-🟦🟦⬛️🟧⬛️
-🟧🟧🟧🟧🟧
-
+--------------------------------
