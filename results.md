@@ -1,3 +1,23 @@
+
+#### Thursday, January 27, 2022
+Wordle 222 3/6
+
+🟦⬛⬛⬛⬛  
+⬛⬛🟦🟦🟧  
+🟧🟧🟧🟧🟧  
+
+```
+PS G:\Code\Python\wordle> python3 wordletool.py                                   
+Got 12972 words. Here's the top 3:
+[('rales', 36870), ('lares', 37169), ('tares', 37331)]
+PS G:\Code\Python\wordle> python3 wordletool.py -n ares -c t....
+Got 262 words. Here's the top 3:
+[('picot', 970), ('pitot', 981), ('pinot', 983)]
+PS G:\Code\Python\wordle> python3 wordletool.py -n arespi -w ....t -c t.... ..no.
+Got 4 words. Here's the top 3:
+[('count', 31), ('fount', 31), ('mount', 31)]
+PS G:\Code\Python\wordle> 
+```
 -------------------------------
 #### Wednesday, January 26, 2022
 Wordle 221 4/6
