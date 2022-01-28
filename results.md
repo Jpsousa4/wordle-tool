@@ -1,4 +1,31 @@
+Wordle 223 5/6
 
+⬛⬛🟧🟦⬛  
+⬛🟧🟧⬛⬛  
+🟧🟧🟧⬛🟧  
+🟧🟧🟧⬛🟧  
+🟧🟧🟧🟧🟧  
+```
+[('rales', 36870), ('lares', 37169), ('tares', 37331)]
+PS G:\Code\Python\wordle> python3 wordletool.py -n tas -w ..r.. -c ...e.
+Got 100 words. Here's the top 3:
+[('perce', 503), ('merge', 506), ('cerge', 508)]
+PS G:\Code\Python\wordle> python3 wordletool.py -n tascg -w .er.. -c ...e.
+Got 45 words. Here's the top 3:
+[('nervy', 275), ('perdy', 275), ('pervy', 278)]
+PS G:\Code\Python\wordle> python3 wordletool.py -n tascg -w .er.. -c e..ee
+Got 35 words. Here's the top 3:
+[('perky', 218), ('perry', 218), ('perdy', 219)]
+PS G:\Code\Python\wordle> python3 wordletool.py -n tascgd -w per.y -c e..ee
+Got 3 words. Here's the top 3:
+[('perry', 26), ('perky', 27), ('pervy', 27)]
+PS G:\Code\Python\wordle> python3 wordletool.py -n tascgdv -w per.y -c e..ee
+Got 2 words. Here's the top 3:
+[('perry', 18), ('perky', 19)]
+PS G:\Code\Python\wordle>
+```
+
+-------------------------------
 #### Thursday, January 27, 2022
 Wordle 222 3/6
 
